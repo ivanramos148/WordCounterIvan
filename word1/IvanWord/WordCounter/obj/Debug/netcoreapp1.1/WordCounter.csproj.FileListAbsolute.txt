@@ -18,3 +18,13 @@ C:\Users\nahu_\Desktop\IVANwordcounter\WordCounter\obj\Debug\netcoreapp1.1\WordC
 C:\Users\nahu_\Desktop\IVANwordcounter\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.AssemblyInfo.cs
 C:\Users\nahu_\Desktop\IVANwordcounter\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.dll
 C:\Users\nahu_\Desktop\IVANwordcounter\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.pdb
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.AssemblyInfoInputs.cache
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.AssemblyInfo.cs
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.dll
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.pdb
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.deps.json
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.runtimeconfig.json
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.runtimeconfig.dev.json
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.dll
+C:\Users\nahu_\Desktop\WorkingWordCounter\word1\IvanWord\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.pdb

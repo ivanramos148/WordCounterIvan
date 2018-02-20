@@ -9554,11 +9554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nahu_\\Desktop\\IVANwordcounter\\WordCounter\\WordCounter.csproj",
+      "projectUniqueName": "C:\\Users\\nahu_\\Desktop\\WorkingWordCounter\\word1\\IvanWord\\WordCounter\\WordCounter.csproj",
       "projectName": "WordCounter",
-      "projectPath": "C:\\Users\\nahu_\\Desktop\\IVANwordcounter\\WordCounter\\WordCounter.csproj",
+      "projectPath": "C:\\Users\\nahu_\\Desktop\\WorkingWordCounter\\word1\\IvanWord\\WordCounter\\WordCounter.csproj",
       "packagesPath": "C:\\Users\\nahu_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nahu_\\Desktop\\IVANwordcounter\\WordCounter\\obj\\",
+      "outputPath": "C:\\Users\\nahu_\\Desktop\\WorkingWordCounter\\word1\\IvanWord\\WordCounter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nahu_\\AppData\\Roaming\\NuGet\\NuGet.Config"
